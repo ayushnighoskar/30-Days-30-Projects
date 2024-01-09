@@ -22,4 +22,10 @@
 
 11.  ChatGPT-Clone-
 
-12.  
+12.  QTripStatic-
+
+13.  QtripDynamic-
+
+14.  XBoard-
+
+15.  
