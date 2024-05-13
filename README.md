@@ -16,16 +16,18 @@
 
 8.  Password Generator-
 
-9.  Github Profiles-
+9.  QR-Code-Generator-
 
 10.  Dictionary App-
 
-11.  ChatGPT-Clone-
+11.  Email Validator-
 
-12.  QTripStatic-
+12.  QTrip-
 
-13.  QtripDynamic-
+13.  Qkart-
 
-14.  XBoard-
+14.  Qtify-
 
-15.  
+15. Xboard-
+
+16. 
