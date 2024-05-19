@@ -32,4 +32,29 @@
 
 16. Weather-App -
 
-17. 
+17. Food-Delivery-Website
+
+-------------------------------------------------------------
+18. LCO- MERN ecommerce
+
+19. Yelpcamp
+
+20. Web scraping with Nodejs
+
+21. Create REST API with Node
+
+22. Create NPM package
+
+23. MERN thapa
+
+24. Memory Card
+
+25. AI image generation
+
+26. Text to VOice generator
+
+27. Typing game
+
+28. Random User Generator
+
+29. 
